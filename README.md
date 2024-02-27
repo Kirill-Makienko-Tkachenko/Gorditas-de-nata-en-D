@@ -1,4 +1,4 @@
-# Lenguaje de programacion C++
+# Lenguaje de programacion D
 
 El lenguaje de programación D fue diseñado por Walter Bright alrededor del año 2001, con su primera versión pública lanzada en 2007. Es un lenguaje de programación de alto nivel que ofrece una sintaxis similar a la de C++ pero busca mejorar muchas de sus complejidades y deficiencias.
 

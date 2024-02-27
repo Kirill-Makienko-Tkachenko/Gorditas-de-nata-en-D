@@ -7,8 +7,7 @@ El lenguaje de programacion D fue hecho por Walter Bright en 2001 y se publico e
 
 ## Instalacion
 
-La manera mas facil de instalar un compulador de C++, como lo es g++, es instalar minGW, la cosa mas facil es seguir este tutorial de Microsft
-https://code.visualstudio.com/docs/cpp/config-mingw
+Ir a https://dlang.org/, instalar el lenguaje y listo
 
 ## Compilacion (en Windows)
 
